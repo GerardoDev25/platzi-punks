@@ -1,0 +1,20 @@
+{
+  "name": "platzi-punks",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardoDev25/platzi-punks.git"
+  },
+  "keywords": [],
+  "author": "Gerardo Miranda <gerardodev25@gmail.com> (https://github.com/GerardoDev25)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerardoDev25/platzi-punks/issues"
+  },
+  "homepage": "https://github.com/GerardoDev25/platzi-punks#readme"
+}
