@@ -6,7 +6,8 @@
   "scripts": {
     "test": "hardhat test",
     "run:local": "hardhat run scripts/deploy.js",
-    "run:net": "hardhat run scripts/deploy.js --network rinkeby"
+    "run:net": "hardhat run scripts/deploy.js --network rinkeby",
+    "flatten": "hardhat flatten > flattened.sol"
   },
   "repository": {
     "type": "git",
